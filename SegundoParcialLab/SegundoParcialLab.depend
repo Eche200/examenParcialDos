@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1542925460 source:/home/alumno/examenParcialDos/SegundoParcialLab/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Venta.h"
+	"Parser.h"
+	"ShowMenu.h"
+
+1542925470 /home/alumno/examenParcialDos/SegundoParcialLab/Venta.h
+
+1542925355 /home/alumno/examenParcialDos/SegundoParcialLab/Parser.h
+	"Venta.h"
+
+1542925365 /home/alumno/examenParcialDos/SegundoParcialLab/ShowMenu.h
+	"Venta.h"
+
+1542925361 source:/home/alumno/examenParcialDos/SegundoParcialLab/ShowMenu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Venta.h"
+	"Parser.h"
+
+1542923687 source:/home/alumno/examenParcialDos/SegundoParcialLab/Venta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Parser.h"
+	"ShowMenu.h"
+
+1542925481 source:/home/alumno/examenParcialDos/SegundoParcialLab/Parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Venta.h"
+	"ShowMenu.h"
+
